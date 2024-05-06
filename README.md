@@ -1,2 +1,2 @@
 # StayEase
-StayEase Your passport to extraordinary stays. Find distinctive lodgings, from quaint cottages to urban escapes, and connect with welcoming hosts for personalized getaways. With seamless booking and trusted transactions, Airbnb invites you to unlock authentic adventures worldwide, curated just for you
+StayEase is revolutionizing the way to find extraordinary stays. Built with Swift UI, the app offers a seamless experience to discover unique lodgings, whether it's a quaint cottage or an urban escape. Connect with welcoming hosts for personalized getaways and unlock authentic adventures worldwide. With intuitive design and trusted transactions, StayEase brings curated stays tailored, to the fingertips.
