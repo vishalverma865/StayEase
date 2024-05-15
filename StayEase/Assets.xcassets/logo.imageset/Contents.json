@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "transparent-wooden-frame-pink-curtain-green-plant-window-with-frame65a0fc23d28697.8426069917050491238623.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

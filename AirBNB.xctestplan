@@ -1,0 +1,26 @@
+{
+  "configurations" : [
+    {
+      "id" : "9BED8C4A-5545-4F37-8154-C5894C2987D5",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "locationScenario" : {
+      "identifier" : "..\/..\/20240415092154-53083-data.gpx"
+    },
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:AirBNB.xcodeproj",
+      "identifier" : "3C99D5372B9472CF00055738",
+      "name" : "AirBNB"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
