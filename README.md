@@ -1,5 +1,5 @@
 
-# StayEase <img width="50" height = "45" src="https://github.com/vishalverma865/StayEase/blob/374e981e9eaa12c044638980935fd21d112cf5d3/appIcon.png" alt="Project Image">
+# StayEase <img width="30" height = "30" src="https://github.com/vishalverma865/StayEase/blob/374e981e9eaa12c044638980935fd21d112cf5d3/appIcon.png" alt="Project Image">
 
 StayEase is revolutionizing the way to find extraordinary stays. Built with Swift UI, the app offers a seamless experience to discover unique lodgings, whether it's a quaint cottage or an urban escape. Connect with welcoming hosts for personalized getaways and unlock authentic adventures worldwide. With intuitive design and trusted transactions, StayEase brings curated stays tailored, to the fingertips.
 
@@ -23,7 +23,6 @@ Key Features:
 - Homepage Listings: Users are presented with a range of property listings on the homepage.
 - Property Details: Clicking on a listing reveals comprehensive details about the property.
 - Search Functionality: Users can search for specific properties based on location, price, amenities, etc.
-- Filters: Advanced filtering options allow users to narrow down their search results according to their preferences.
 - Favorites: Users can save their favourite listings for future reference.
 - Booking System: Integration of a booking system allowing users to book properties directly from the app.
 - Reviews and Ratings: Users can view and leave reviews and ratings for properties they have visited.
