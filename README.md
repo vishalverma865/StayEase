@@ -6,7 +6,7 @@ StayEase is revolutionizing the way to find extraordinary stays. Built with Swif
   
   <img width="700" height = "450" src="https://github.com/vishalverma865/StayEase/blob/58a04febb3313445c90030e3c81a87ef45a1d6a9/Home.png" alt="Project Image"  align="right">
 Connect with welcoming hosts to provide personalized getaways and insider recommendations, ensuring the stay is tailored to the user's preferences. From cozy bed and breakfasts to luxurious villas, our platform opens doors to authentic experiences worldwide.
-With StayEase, one can unlock a world of authentic adventures. Discover hidden gems and off-the-beaten-path destinations, immersing in the local culture and traditions. Intuitive design makes browsing and booking the next getaway a breeze, ensuring to find the perfect stay with just a few taps.
+With StayEase, one can unlock a world of authentic adventures. Discover the hidden gems and off-the-beaten-path destinations, immersing in the local culture and traditions. Intuitive design makes browsing and booking the next getaway a breeze, ensuring to find the perfect stay with just a few taps.
 StayEase prioritizes the safety and security of the users, offering a trusted booking platform for worry-free travel experiences.
 Tailored stays on fingertips with StayEase. Whether one is planning a romantic retreat, a family vacation, or a solo adventure, our platform has something for everyone. Experience the future of travel with StayEase where extraordinary stays are just a tap away.
 
